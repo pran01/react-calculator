@@ -10,7 +10,7 @@ class Body extends Component {
       display: "grid",
       gridRowStart: "2",
       gridTemplateColumns: "repeat(4, 50px)",
-      gridTemplateRows: "repeat(5, 50px)",
+      gridTemplateRows: "repeat(7, 50px)",
       marginTop: "10%",
       height: "370px",
       boxShadow: "0px 0px 50px 5px black",
